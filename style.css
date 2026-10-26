@@ -1,0 +1,14 @@
+.slidev-vclick-anim-slowfade {
+  transition: opacity 3000ms ease !important;
+}
+
+
+.slidev-vclick-target {
+  transition: all 900ms ease; /* Change from 100ms to your desired duration */
+}
+
+/* style.css */
+.slidev-layout {
+  /* Subtle light black shadow: X-offset, Y-offset, Blur radius, Color */
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
